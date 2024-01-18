@@ -1,0 +1,15 @@
+---
+title: "Quellen"
+output: html_document
+date: "2024-01-18"
+---
+
+Hier käme dann eine Auflistung aller Quellen hin. 
+
+Berding, U., & Karow-Kluge, D. (2017). Begegnung in öffentlichen Räumen. Eine Annäherung an den Stand der Diskussion. Pnd online, 1, 2017.
+
+Valentine, G. (2008). Living with difference: reflections on geographies of encounter. Progress in human geography, 32(3), 323-337.
+
+vhw – Bundesverband für Wohnen und Stadtentwicklung e. V. (Hrsg.) (2022): Begegnung schaf-fen. Strategien und Handlungsansätze in der sozialen Quartiersentwicklung. vhw-Schriftenreihe Nr. 33. Berlin. 
+
+
