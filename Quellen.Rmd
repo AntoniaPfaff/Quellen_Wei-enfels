@@ -1,9 +1,34 @@
 ---
-title: "Quellen"
-output: html_document
-date: "2024-01-18"
+title: "Gemeinsames Weißenfels"
+subtitle: "Wie aktivieren institutionelle Akteure die Stadtgesellschaft?"
+author: "Alexander Flohr, Freya Sophie Staude, Antonia Pfaff, Sina Hemmann"
+output:
+  html_document:
+    toc: yes
+    toc_float: yes    
+    toc_depth: '3'
+    df_print: paged
 ---
+# Theorie: Begegnungsorte
 
+
+# Theorie: Partizipation
+
+
+
+# Abbildung: Akteure – Wer sind die Multiplikatoren? 
+Gut vernetzte institutionelle Akteure sind in der Lage, die gesamte Stadtgesellschaft zu erreichen. Eine gute Vernetzung kann zu mehr Teilhabe beitragen, da die Bevölkerung besser auf den Akteur und seine Veranstaltungen aufmerksam gemacht werden. 
+Die Abb. „Akteure – Wer sind die Multiplikatoren?“ zeigt hierbei die relevantesten institutionellen Akteure in Weißenfels, inwieweit diese vernetzt sind und ob deren Angebot eher aktiver oder passiver Natur ist. 
+Aus den erhobenen Daten werden die relevanten Akteure ausgewählt, welche mit Abstand die meisten Veranstaltungen in Weißenfels durchführen. Diese werden mittels der jeweiligen Durchmesser des Kreises um den jeweiligen Akteur dargestellt (0,3 cm pro Veranstaltung im Jahr - 2023). 
+Die Abszisse reflektiert, in welchem Umfang die Akteure eine aktive Gestaltung durch Teilnehmer:innen von Veranstaltungsformaten ermöglichen. Das Ranking basiert dabei auf der Differenz zwischen aktiven und passiven Veranstaltungen, klassifiziert nach Arnsteins „Ladder of particiption“ (Ebene 1-5 = passiv, Ebene 6-8 aktiv) (1969).
+Die Ordinate repräsentiert die Vernetzung der verschiedenen Akteure. Als Indikatoren werden hierfür die Präsenz im Amtsblatt der Stadt, das städtisches Engagement (Organisation des Neustadtfestes und der Onlineauftritt (Website und Social Media) genutzt. In den vier Kategorien können insgesamt sechs Punkte vergeben werden, anhand derer ein Ranking erfolgt.
+
+# Karte: Institutionelle Begegnungsorte Weißenfels
+
+Die Abb. „Institutionelle Begegnungsorte Weißenfels“ zeigt eine Karte von Weißenfels. Dabei sind alle relevanten institutionelle Begegnungsorte in der Stadt markiert. Diese sind in Bildung, Kultur und Soziales geclustert.
+Hierbei fällt auf, dass die Begegnungsorte, insbesondere im Stadtzentrum und im Westen der Stadt geballt. Insbesondere im Osten und Süden befinden sich sehr wenige institutionelle Begegnungsorte. Nördlich der Saale, im Bereich der Neustadt befinden sich ebenfalls deutlich weniger Begegnungsorte als im Bereich der Innenstadt, jedoch befinden sich in der Neustadt deutlich mehr Begegnungsangebote als im Süden oder Osten der Stadt. Die Big Player unter den institutionellen Begegnungsorten scheinen ebenfalls sehr zentral oder zu mindestens an Hauptverkehrswegen gelegen zu sein. Dabei fällt auf, dass im Westen der Stadt zwar viele Begegnungsangebote bestehen, die Big Player jedoch eher zentral von Nord nach Süd mit Ballung in der Innenstadt verteilt sind. 
+
+# Literaturverzeichnis
 Hier käme dann eine Auflistung aller Quellen hin. 
 
 Berding, U., & Karow-Kluge, D. (2017). Begegnung in öffentlichen Räumen. Eine Annäherung an den Stand der Diskussion. Pnd online, 1, 2017.
