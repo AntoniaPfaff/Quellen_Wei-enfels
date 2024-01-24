@@ -1,40 +1,83 @@
 ---
-title: "Gemeinsames Weißenfels"
-subtitle: "Wie aktivieren institutionelle Akteure die Stadtgesellschaft?"
-author: "Alexander Flohr, Freya Sophie Staude, Antonia Pfaff, Sina Hemmann"
+title: 'Gemeinsames Weißenfels'
+subtitle: 'Wie aktivieren institutionelle Akteure die Stadtgesellschaft?'
+author: 'Alexander Flohr, Freya Sophie Staude, Antonia Pfaff, Sina Hemmann'
 output:
   html_document:
     toc: yes
-    toc_float: yes    
+    toc_float: yes
+    #toc_depth: ‚5‘
     toc_depth: '3'
     df_print: paged
+    theme:  cerulean
 ---
-# Theorie: Begegnungsorte
+
+# Theorie {.tabset .tabset-fade .tabset-pills}
+
+## Begegnungsorte 
+
+Konzeptionelle Einordnung des Begriffs: 
+Begegnungsorte sind Orte, die die Möglichkeit für ein Aufeinandertreffen verschiedener Personen oder Personengruppen auf der Grundlage gemeinsamer Aktivitäten und Interessen bieten (Matzke et al., 2022, S. 13 ff.; Berding & Karow-Kluge, 2017, S. 1). 
+
+**Bedeutung:**
+
+-	bieten die Möglichkeit, Vorurteile abzubauen und die lokale Verbundenheit zu stärken, indem Vertrauen zw. Menschen gefördert werden kann und Kooperationen ermöglicht werden -	können sich positiv auf die individuelle Lebenszufriedenheit und das Wohlbefinden auswirken, da sie Möglichkeiten bieten, soziale Netzwerke aufzubauen, soziale Unterstützung zu erhalten und die soziale Integration zu fördern
+-	können eine besondere Rolle für den Umgang mit gesellschaftlicher Vielfalt spielen 
+ Begegnungen zwischen Menschen mit unterschiedlichem kulturellem Hintergrund können zum interkulturellen Verständnis beitragen und den interkulturellen Dialog fördern (vgl. Berding & Karow-Kluge, 2017, S. 1 ff.; Matzke et al., 2022, S. 13 ff.; Valentine, 2008, S. 323 ff.)
+
+**Unterscheidung** 
+
+-	Begegnungen finden in unterschiedlichen räumlichen Kontexten statt. Dies reicht von öffentlichen Räumen über halböffentliche Räume bis hin zu stärker von institutionellen Regeln und Routinen geprägten halböffentlichen Räumen. Die genannten Settings unterscheiden sich in der Art der Begegnungen - ob zufällig, wiederkehrend oder regelmäßig - und im Grad der institutionellen Geschlossenheit.
+-	Im Rahmen dieser Untersuchung wird sich explizit auf die institutionell geprägten Begegnungsorte bezogen, da die Rolle institutioneller Akteure und deren initiierten oder mitgestalteten Formate im Zentrum der Arbeit liegen. Die halböffentlichen Räume, wie Geschäfte, Nachbarschaftsgärten und Innenhöfe von Wohngebäuden sowie öffentliche Räume, wie Plätze, Parks und Spielplätze werden aufgrund ihrer Komplexität und der fehlenden Untersuchungsgrundlage außer Acht gelassen. Diese öffentlichen und halböffentlichen Räume sind vor allem geprägt durch ihren flüchtigen Charakter geprägt, der sich durch zufällige und stark situationsabhängige Interaktionen auszeichnet. 
+-	Begegnungen in stärker institutionell geprägten halböffentlichen Räumen wie Nachbarschaftszentren, Bildungseinrichtungen oder Vereinsräumen sind im Gegensatz dazu stärker an Regeln und Routinen gebunden. Insbesondere die regelmäßigen Begegnungen in diesen Räumen können zur Netzwerkbildung beitragen. Die in diesen institutionellen Settings bestehenden Regeln, Normen und etablierten Praktiken beeinflussen die Form und Häufigkeit von Interaktionen, die Entstehung von sozialen Beziehungen und Einstellungen, Vertrauensbildung sowie den Austausch von Informationen und anderen Ressourcen. 
+-	Verschiedene institutionelle Politiken und Praktiken gestalten und beeinflussen den Interaktionsprozess. Dazu gehören übergeordnete Leitlinien wie Handlungsmaximen und Wertevorstellungen der Institutionen, die Qualifikation des Personals, dessen Sensibilität für unterschiedliche Interessen und Gruppenanliegen sowie die Gestaltung der Angebote. Insbesondere in stark institutionalisierten Settings können die dort tätigen Personen eine wichtige Rolle bei der Vermittlung zwischen unterschiedlichen Besucherinnen und Besuchern spielen. Sie tragen zum Aufbau neuer Beziehungen bei und fördern beispielsweise den Transfer von Ressourcen, den Abbau von Vorurteilen oder die Artikulation von Interessen bestimmter Gruppen (Matzke et al., S. 14 ff.)
 
 
-# Theorie: Partizipation
+**Kritische Betrachtung:**
+
+-	Oftmals besteht vor allem bei institutionell geprägten Begegnungsorten die Gefahr der sozialen Schließungsprozesse und die Verstärkung von Gruppengrenzen. Die Offenheit für neue Teilnehmer kann dadurch verlorengehen. Dies führt dazu, dass die Projekte nach außen hin als exklusiver Kreis wirken, was potenzielle Teilnehmer abschrecken kann und als unerreichbar empfunden wird. Diese Dynamik kann neue Personen daran hindern, am sozialen Austausch teilzunehmen und die positiven Effekte der Begegnungsangebote beeinträchtigen (Matzke et al., 2022, S. 89 ff.).
 
 
 
-# Abbildung: Akteure – Wer sind die Multiplikatoren? 
-Gut vernetzte institutionelle Akteure sind in der Lage, die gesamte Stadtgesellschaft zu erreichen. Eine gute Vernetzung kann zu mehr Teilhabe beitragen, da die Bevölkerung besser auf den Akteur und seine Veranstaltungen aufmerksam gemacht werden. 
-Die Abb. „Akteure – Wer sind die Multiplikatoren?“ zeigt hierbei die relevantesten institutionellen Akteure in Weißenfels, inwieweit diese vernetzt sind und ob deren Angebot eher aktiver oder passiver Natur ist. 
-Aus den erhobenen Daten werden die relevanten Akteure ausgewählt, welche mit Abstand die meisten Veranstaltungen in Weißenfels durchführen. Diese werden mittels der jeweiligen Durchmesser des Kreises um den jeweiligen Akteur dargestellt (0,3 cm pro Veranstaltung im Jahr - 2023). 
-Die Abszisse reflektiert, in welchem Umfang die Akteure eine aktive Gestaltung durch Teilnehmer:innen von Veranstaltungsformaten ermöglichen. Das Ranking basiert dabei auf der Differenz zwischen aktiven und passiven Veranstaltungen, klassifiziert nach Arnsteins „Ladder of particiption“ (Ebene 1-5 = passiv, Ebene 6-8 aktiv) (1969).
+## Partizipation {.tabset .tabset-pills}
+
+
+Aktivierung erfolgt durch Partizipation. Jedoch gibt es keine einheitliche Definition von Partizipation.  Im Rahmen des Seminars wird sich auf die theoretischen Aspekte des Definitionsversuchs nach Bartelheimer gestützt, welcher aus soziologischer Sicht unter Partizipation die Erfassung individueller Möglichkeitsräume und den Gebrauch derer versteht (Bartelheimer et al., 2022, S. 28). 
+Normativ im Bereich der Politologie betrachtet, umfasst Partizipation im Rahmen demokratischer Handlungen die persönliche Entfaltung mittels des Willens, sich zu beteiligen, sowie der Voraussetzungen, mitgestalten zu können. (Stark, 2019, S. 11 ff.;  Bartelheimer et al., 2022, S. 28).
+Das Partizipationsgeschehen kann weitläufig in eine Wechselbeziehung zwischen Teilhabe und Teilnahme nach Bel Adasme (2022, S. 9) eingeteilt werden. Teilhabe umfasst „die Gewährung von Einflussrechten und den Zugang zu gesellschaftlichen, politischen, kulturellen und wirtschaftlichen Ressourcen“ (Schwanenflügel, 2015, S. 45). Sie beinhaltet die Möglichkeit zur Auswahl. Dabei ist die tatsächliche Ausübung einer Aktivität oder die Teilnahme an einer Lebenssituation nicht entscheidend, sondern deren grundlegende Zugänglichkeit (Bartelheimer et al., 2022, S. 26). Die Teilhabe gliedert sich in eine realisierte Teilhabe und in Teilhabechancen. Gesellschaftliche Gleichstellungsansätze fokussieren sich dabei hauptsächlich auf die Teilhabechancen, die Gleichheit, überhaupt die Möglichkeit zu haben, partizipieren zu können (ebd., S. 23). Teilhabe kann daher als Messinstrument dienen, um Benachteiligung bis hin zu Ausgrenzung zu erkennen (ebd, S. 27). Teilnahme umfasst hingegen ein gewisses Maß an Mitwirken. Die Teilnahme untergliedert sich hierbei in einen eher passiven Zustand, die Involvierung, und in ein aktives Handeln, das Mitmachen (Ukowitz, 2021, S. 221). 
+
+# Abbildungen {.tabset .tabset-fade .tabset-pills}
+
+## Akteure – Wer sind die Multiplikatoren? 
+
+Gut vernetzte institutionelle Akteure sind in der Lage, die gesamte Stadtgesellschaft zu erreichen. Eine gute Vernetzung kann zu mehr Teilhabe beitragen, da die Bevölkerung besser auf den Akteur und seine Veranstaltungen aufmerksam gemacht werden. Die Abb. „Akteure – Wer sind die Multiplikatoren?“ zeigt hierbei die relevantesten institutionellen Akteure in Weißenfels, inwieweit diese vernetzt sind und ob deren Angebot eher aktiver oder passiver Natur ist. Aus den erhobenen Daten werden die relevanten Akteure ausgewählt, welche mit Abstand die meisten Veranstaltungen in Weißenfels durchführen. Diese werden mittels der jeweiligen Durchmesser des Kreises um den jeweiligen Akteur dargestellt (0,3 cm pro Veranstaltung im Jahr - 2023). Die Abszisse reflektiert, in welchem Umfang die Akteure eine aktive Gestaltung durch Teilnehmer:innen von Veranstaltungsformaten ermöglichen. Das Ranking basiert dabei auf der Differenz zwischen aktiven und passiven Veranstaltungen, klassifiziert nach Arnsteins „Ladder of particiption“ (Ebene 1-5 = passiv, Ebene 6-8 aktiv) (1969).
 Die Ordinate repräsentiert die Vernetzung der verschiedenen Akteure. Als Indikatoren werden hierfür die Präsenz im Amtsblatt der Stadt, das städtisches Engagement (Organisation des Neustadtfestes und der Onlineauftritt (Website und Social Media) genutzt. In den vier Kategorien können insgesamt sechs Punkte vergeben werden, anhand derer ein Ranking erfolgt.
 
-# Karte: Institutionelle Begegnungsorte Weißenfels
+## Institutionelle Begegnungsorte Weißenfels
 
 Die Abb. „Institutionelle Begegnungsorte Weißenfels“ zeigt eine Karte von Weißenfels. Dabei sind alle relevanten institutionelle Begegnungsorte in der Stadt markiert. Diese sind in Bildung, Kultur und Soziales geclustert.
 Hierbei fällt auf, dass die Begegnungsorte, insbesondere im Stadtzentrum und im Westen der Stadt geballt. Insbesondere im Osten und Süden befinden sich sehr wenige institutionelle Begegnungsorte. Nördlich der Saale, im Bereich der Neustadt befinden sich ebenfalls deutlich weniger Begegnungsorte als im Bereich der Innenstadt, jedoch befinden sich in der Neustadt deutlich mehr Begegnungsangebote als im Süden oder Osten der Stadt. Die Big Player unter den institutionellen Begegnungsorten scheinen ebenfalls sehr zentral oder zu mindestens an Hauptverkehrswegen gelegen zu sein. Dabei fällt auf, dass im Westen der Stadt zwar viele Begegnungsangebote bestehen, die Big Player jedoch eher zentral von Nord nach Süd mit Ballung in der Innenstadt verteilt sind. 
 
 # Literaturverzeichnis
-Hier käme dann eine Auflistung aller Quellen hin. 
 
-Berding, U., & Karow-Kluge, D. (2017). Begegnung in öffentlichen Räumen. Eine Annäherung an den Stand der Diskussion. Pnd online, 1, 2017.
+Bartelheimer, P., Behrisch, B., Daßler, H., Dobslaw, G., Henke, J. & Schäfers, M. (2022). Teilhabe – Versuch einer Begriffsbestimmung. In Beiträge zur Teilhabeforschung (S. 13–34). https://doi.org/10.1007/978-3-658-38305-3
+
+Bel Adasme, M. (2016). Partizipationsbiographien engagierter Migrantinnen: eine biographieanalytische Studie über Partizipationsprozesse im Kontext von Migration und Geschlecht. SSOAR. https://nbn-resolving.org/urn:nbn:de:0168-ssoar-51820-3  
+
+Berding, U. & Karow-Kluge, D. A. (2017). Begegnung in öffentlichen Räumen: Eine Annäherung an den Stand der Diskussion(Bd. 2017). https://doi.org/10.18154/rwth-2017-05523
+
+Matzke, F. L., Zimmer-Hegmann, R. & Hanhörster, H. (2022). Begegnung schaffen: Strategien und Handlungsansätze in der sozialen Quartiersentwicklung (Vhw-Schriftreihe Nr. 33). vhw- Bundesverband für Wohnen und Stadtentwicklung e.V.
+
+Munsch, C. (2015). Quartiersentwicklung – Ausgrenzung. In J. Knabe, A. van Rießen & R. Blandow (Hg.), Städtische Quartiere gestalten. Kommunale Herausforderungen und Chancen im transformierten Wohlfahrtsstaat (S. 41–53). Bielefeld, Berlin: Transcript; de Gruyter.
+
+Schwanenflügel, L. (2015). Partizipationsbiographien Jugendlicher: zur subjektiven Bedeutung von Partizipation im Kontext sozialer Ungleichheit. https://publikationen.uni-tuebingen.de/xmlui/handle/10900/56769  
+
+Stark, T. (2018). Demokratie und politische Partizipation – eine theoretische Verortung. In Vergleichende Politikwissenschaft (S. 11–123). https://doi.org/10.1007/978-3-658-24616-7_2 
+
+Ukowitz, M. (2021). Partizipative Forschung. In Handbuch Transdisziplinäre Didaktik. (S. 221-227). https://doi.org/10.1515/9783839455654 
 
 Valentine, G. (2008). Living with difference: reflections on geographies of encounter. Progress in human geography, 32(3), 323-337.
 
-vhw – Bundesverband für Wohnen und Stadtentwicklung e. V. (Hrsg.) (2022): Begegnung schaf-fen. Strategien und Handlungsansätze in der sozialen Quartiersentwicklung. vhw-Schriftenreihe Nr. 33. Berlin. 
+
 
 
