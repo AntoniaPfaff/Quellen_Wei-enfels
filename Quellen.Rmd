@@ -48,15 +48,28 @@ Das Partizipationsgeschehen kann weitläufig in eine Wechselbeziehung zwischen T
 
 # Abbildungen {.tabset .tabset-fade .tabset-pills}
 
-## Akteure – Wer sind die Multiplikatoren? 
-
-Gut vernetzte institutionelle Akteure sind in der Lage, die gesamte Stadtgesellschaft zu erreichen. Eine gute Vernetzung kann zu mehr Teilhabe beitragen, da die Bevölkerung besser auf den Akteur und seine Veranstaltungen aufmerksam gemacht werden. Die Abb. „Akteure – Wer sind die Multiplikatoren?“ zeigt hierbei die relevantesten institutionellen Akteure in Weißenfels, inwieweit diese vernetzt sind und ob deren Angebot eher aktiver oder passiver Natur ist. Aus den erhobenen Daten werden die relevanten Akteure ausgewählt, welche mit Abstand die meisten Veranstaltungen in Weißenfels durchführen. Diese werden mittels der jeweiligen Durchmesser des Kreises um den jeweiligen Akteur dargestellt (0,3 cm pro Veranstaltung im Jahr - 2023). Die Abszisse reflektiert, in welchem Umfang die Akteure eine aktive Gestaltung durch Teilnehmer:innen von Veranstaltungsformaten ermöglichen. Das Ranking basiert dabei auf der Differenz zwischen aktiven und passiven Veranstaltungen, klassifiziert nach Arnsteins „Ladder of particiption“ (Ebene 1-5 = passiv, Ebene 6-8 aktiv) (1969).
-Die Ordinate repräsentiert die Vernetzung der verschiedenen Akteure. Als Indikatoren werden hierfür die Präsenz im Amtsblatt der Stadt, das städtisches Engagement (Organisation des Neustadtfestes und der Onlineauftritt (Website und Social Media) genutzt. In den vier Kategorien können insgesamt sechs Punkte vergeben werden, anhand derer ein Ranking erfolgt.
-
 ## Institutionelle Begegnungsorte Weißenfels
 
 Die Abb. „Institutionelle Begegnungsorte Weißenfels“ zeigt eine Karte von Weißenfels. Dabei sind alle relevanten institutionelle Begegnungsorte in der Stadt markiert. Diese sind in Bildung, Kultur und Soziales geclustert.
 Hierbei fällt auf, dass die Begegnungsorte, insbesondere im Stadtzentrum und im Westen der Stadt geballt. Insbesondere im Osten und Süden befinden sich sehr wenige institutionelle Begegnungsorte. Nördlich der Saale, im Bereich der Neustadt befinden sich ebenfalls deutlich weniger Begegnungsorte als im Bereich der Innenstadt, jedoch befinden sich in der Neustadt deutlich mehr Begegnungsangebote als im Süden oder Osten der Stadt. Die Big Player unter den institutionellen Begegnungsorten scheinen ebenfalls sehr zentral oder zu mindestens an Hauptverkehrswegen gelegen zu sein. Dabei fällt auf, dass im Westen der Stadt zwar viele Begegnungsangebote bestehen, die Big Player jedoch eher zentral von Nord nach Süd mit Ballung in der Innenstadt verteilt sind. 
+
+## Akteure – Wer sind die Multiplikatoren? 
+
+Gut vernetzte institutionelle Akteure sind in der Lage, die gesamte Stadtgesellschaft zu erreichen. Eine gute Vernetzung kann zu mehr Teilhabe beitragen, da die Bevölkerung besser auf den Akteur und seine Veranstaltungen aufmerksam gemacht werden. Die Abb. „Akteure – Wer sind die Multiplikatoren?“ zeigt hierbei die relevantesten institutionellen Akteure in Weißenfels, inwieweit diese vernetzt sind und ob deren Angebot eher aktiver oder passiver Natur ist. Aus den erhobenen Daten werden die relevanten Akteure ausgewählt, welche mit Abstand die meisten Veranstaltungen in Weißenfels durchführen. Diese werden mittels der jeweiligen Durchmesser des Kreises um den jeweiligen Akteur dargestellt (0,3 cm pro Veranstaltung im Jahr - 2023).
+Die Abszisse reflektiert, in welchem Umfang die Akteure eine aktive Gestaltung durch Teilnehmer:innen von Veranstaltungsformaten ermöglichen. Das Ranking basiert dabei auf der Differenz zwischen aktiven und passiven Veranstaltungen, klassifiziert nach Arnsteins „Ladder of particiption“ (Ebene 1-5 = passiv, Ebene 6-8 aktiv) (1969).
+Die Ordinate repräsentiert die Vernetzung der verschiedenen Akteure. Als Indikatoren werden hierfür die Präsenz im Amtsblatt der Stadt, das städtisches Engagement (Organisation des Neustadtfestes und der Onlineauftritt (Website und Social Media) genutzt. In den vier Kategorien können insgesamt sechs Punkte vergeben werden, anhand derer ein Ranking erfolgt.
+
+- größe der Kreise: Veranstaltungen der Institutionen auf das Jahr hochgerechnet 
+    - bspw. Veranstaltungen finden einmal die Woche (52x im Jahr), einmal im Monat (12x im Jahr) und einmal im Jahr (1x) statt -> insgesamt hat die Institution 52 + 12 + 1 =  66 Veranstaltungen im Jahr)
+
+- X-Achse: Anteil passiver bzw. aktiver Veranstaltungen einer Institution, berechnet aus der Differenz von aktiven zu passiven Veranstaltungsformaten 
+
+- Y-Achse: Vernetzung/Sichtbarkeit gemessen an der Online-Präsenz und präsenz im Amtsblatt bzw. am Neustadtfest:
+    - insgesamt 6 Puntke möglich
+    - Vernetzung Neustadtfest und Amtsblatt mit jeweils einem Punkt
+    - Vernetzung eigene Website und social media (1 Punkt, wenn vorhanden, 2 Punkte, wenn aktuell genutzt (zbsp. regelmäßig mit Veranstaltungen/Angeboten geupdatet))
+
+
 
 # Literaturverzeichnis
 
